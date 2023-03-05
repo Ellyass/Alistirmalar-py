@@ -1,2 +1,2 @@
-# Phyton-Al-t-rmalar
+# Phyton-Alıstırmalar
 Basit Alıştırmalar Başlangıç 
