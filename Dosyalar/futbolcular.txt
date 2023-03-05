@@ -1,0 +1,35 @@
+
+
+Altay Bayındır,Fenerbahçe
+F.Muslera,Galatasaray
+Mert Günok,Beşiktaş
+Samet Akaydın,Fenerbahçe
+S.Boey,Galatasaray
+Tayfur Bingöl,Beşiktaş
+W.Arao,Fenerbahçe
+V.Nelsson,Galatasaray
+Welinton,Beşiktaş
+Ferdi Kadıoğlu,FenerBahçe
+Emin Bayram,Galatasaray
+Tayyip Sanuç,Beşiktaş
+Arda Güler,FenerBahçe
+L.Dubols,Galatasaray
+A.Masuaku,Beşiktaş
+E.Valencia,Fenerbahçe
+L.Torreira,Galatasaray
+G.Fernandes,Beşiktaş
+İrfan Can Kahveci,Fenerbahçe
+S.Oliveira,Galatasaray
+Salih Uçan,Beşiktaş
+Lincoln,Fenerbahçe
+Barış Alper Yılmaz,Galatasaray
+J.Muleka,Beşiktaş
+M.Batshuayi,Fenerbahçe
+D.Mertens,Galatasaray
+D.Alli,Beşiktaş
+M.Zajc,Fenerbahçe
+Kerem Aktürkoğlu,Galatasaray
+Cenk Tosun,Beşiktaş
+A.Szalai,Fenerbahçe
+M.Icardi,Galatasaray
+V.Aboubakar,Beşiktaş
